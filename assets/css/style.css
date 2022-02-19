@@ -16,6 +16,12 @@ p {
     color: green;
 }
 
+#leyend {
+    display: block;
+    color: black;
+    text-align: left;
+}
+
 li {
     color: green;
     list-style-type: none;
