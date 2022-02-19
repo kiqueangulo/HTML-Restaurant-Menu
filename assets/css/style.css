@@ -49,11 +49,16 @@ nav a {
     text-decoration: none;
     font-size: 1.6em;
     color: green;
-    margin-right: 25px;
+    padding: 10px;
+    margin-left: 3px;
 }
 
 nav a:hover {
     color: darkred;
+}
+
+#nav-current {
+    border-bottom: 3px solid red;
 }
 
 #banner {
